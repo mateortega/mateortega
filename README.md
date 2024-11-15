@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[Hola](resources\michael-scott-the-office.gif)
+[Hola](resources/michael-scott-the-office.gif)
 
 
 
